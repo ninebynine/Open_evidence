@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Evidence_evaluation/00000027",
+  "@type": [
+    "coll:Evidence_evaluation",
+    "annal:EntityData"
+  ],
+  "annal:id": "00000027",
+  "annal:type": "coll:Evidence_evaluation",
+  "annal:type_id": "Evidence_evaluation",
+  "coll:evidence_evaluation": "Evidence/00000025",
+  "coll:evidence_type": "report",
+  "coll:provenance_verified": false,
+  "rdfs:comment": "Personal observation, believed to be true report, but not verifiable.",
+  "rdfs:label": "Evaluation of \"Kingfisher sightings\" by GK"
+}

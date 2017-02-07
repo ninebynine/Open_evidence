@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Evidence_evaluation",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Evidence_evaluation",
+  "annal:supertype_uri": [],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Evidence_evaluation",
+  "annal:type_view": "_view/Evidence_evaluation",
+  "annal:uri": "coll:Evidence_evaluation",
+  "rdfs:comment": "# Evidence evaluation\r\n\r\nSubmission of evaluation of some item of evidence\r\n\r\n",
+  "rdfs:label": "Evidence evaluation"
+}

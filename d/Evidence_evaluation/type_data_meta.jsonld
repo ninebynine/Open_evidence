@@ -1,0 +1,15 @@
+{
+  "@context": [
+    {
+      "@base": "../"
+    },
+    "../coll_context.jsonld"
+  ],
+  "@id": "Evidence_evaluation",
+  "@type": [
+    "annal:Type_Data"
+  ],
+  "annal:id": "Evidence_evaluation",
+  "annal:type": "annal:Type_Data",
+  "annal:type_id": "_entitytypedata"
+}

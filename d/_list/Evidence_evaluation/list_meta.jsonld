@@ -1,0 +1,36 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Evidence_evaluation",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Evidence_evaluation",
+  "annal:default_view": "_view/Evidence_evaluation",
+  "annal:display_type": "List",
+  "annal:id": "Evidence_evaluation",
+  "annal:list_entity_selector": "'coll:Evidence_evaluation' in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_type",
+      "annal:field_placement": "small:3,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:6,6"
+    }
+  ],
+  "annal:record_type": "coll:Evidence_evaluation",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "rdfs:comment": "# List _initial_values_\r\n\r\n(List information here)",
+  "rdfs:label": "Evidence evaluation list"
+}

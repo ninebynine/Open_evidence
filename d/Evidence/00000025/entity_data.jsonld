@@ -1,0 +1,24 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Evidence/00000025",
+  "@type": [
+    "coll:Evidence",
+    "annal:EntityData"
+  ],
+  "annal:id": "00000025",
+  "annal:type": "coll:Evidence",
+  "annal:type_id": "Evidence",
+  "coll:datetime": "201507",
+  "coll:location": "geo:51.646518,-1.250206",
+  "coll:provenance": "Personal report by Graham Klyne.",
+  "coll:tags": "kingfisher, bird, river thames",
+  "coll:uploaded_image_r": [],
+  "entity:seeAlso_r": [],
+  "rdfs:comment": "8-10 Kingfisher sightings on River Thames between Clifton Hamden and Culham Locks, late July 2015.",
+  "rdfs:label": "Kingfisher sightings"
+}

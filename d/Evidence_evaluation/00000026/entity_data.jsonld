@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Evidence_evaluation/00000026",
+  "@type": [
+    "coll:Evidence_evaluation",
+    "annal:EntityData"
+  ],
+  "annal:id": "00000026",
+  "annal:type": "coll:Evidence_evaluation",
+  "annal:type_id": "Evidence_evaluation",
+  "coll:evidence_evaluation": "Evidence/00000024",
+  "coll:evidence_type": "photograph",
+  "coll:provenance_verified": true,
+  "rdfs:comment": "This is a randomly selected image and has no relevance to any known claim",
+  "rdfs:label": "Evaluate \"Dead fish in river\" by GK"
+}

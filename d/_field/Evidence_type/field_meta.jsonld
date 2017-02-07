@@ -1,0 +1,31 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Evidence_type",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "Enum_render_type/Text",
+  "annal:field_value_mode": "Enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:group_ref": "",
+  "annal:id": "Evidence_type",
+  "annal:placeholder": "(observation, event, report, photograph, citation, ...)",
+  "annal:property_uri": "coll:evidence_type",
+  "annal:repeat_label_add": "",
+  "annal:repeat_label_delete": "",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "type of evidence (observation, event, report, photograph, citation, ...)",
+  "rdfs:label": "Evidence type"
+}
