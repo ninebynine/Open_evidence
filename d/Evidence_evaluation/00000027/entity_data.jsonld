@@ -14,7 +14,7 @@
   "annal:type": "coll:Evidence_evaluation",
   "annal:type_id": "Evidence_evaluation",
   "coll:evidence_evaluation": "Evidence/00000025",
-  "coll:evidence_type": "report",
+  "coll:evidence_type": "Evidence_type/Personal_report",
   "coll:provenance_verified": false,
   "rdfs:comment": "Personal observation, believed to be true report, but not verifiable.",
   "rdfs:label": "Evaluation of \"Kingfisher sightings\" by GK"

@@ -1,0 +1,23 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Evidence_type/Personal_report",
+  "@type": [
+    "coll:Evidence_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "Personal_report",
+  "annal:type": "coll:Evidence_type",
+  "annal:type_id": "Evidence_type",
+  "annal:uri": "coll:Personal_report",
+  "rdfs:comment": "Personal report or observation submitted as evidence",
+  "rdfs:label": "Personal report",
+  "rdfs:seeAlso": [],
+  "skos:broader": [],
+  "skos:related": []
+}

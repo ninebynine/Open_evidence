@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Concept/kingfgisher",
+  "@type": [
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "kingfgisher",
+  "annal:type": "skos:Concept",
+  "annal:type_id": "Concept",
+  "annal:uri": "http://www.wikidata.org/entity/Q45018",
+  "rdfs:comment": "Kingfisher",
+  "rdfs:label": "Kingfisher",
+  "rdfs:seeAlso": [],
+  "skos:broader": [
+    {
+      "@id": "Concept/bird"
+    }
+  ],
+  "skos:related": []
+}

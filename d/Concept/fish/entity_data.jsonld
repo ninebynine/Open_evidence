@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Concept/fish",
+  "@type": [
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "fish",
+  "annal:type": "skos:Concept",
+  "annal:type_id": "Concept",
+  "annal:uri": "http://www.wikidata.org/entity/Q152",
+  "rdfs:comment": "Fish",
+  "rdfs:label": "Fish",
+  "rdfs:seeAlso": [],
+  "skos:broader": [],
+  "skos:related": []
+}

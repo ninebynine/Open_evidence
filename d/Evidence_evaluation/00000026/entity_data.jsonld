@@ -14,7 +14,7 @@
   "annal:type": "coll:Evidence_evaluation",
   "annal:type_id": "Evidence_evaluation",
   "coll:evidence_evaluation": "Evidence/00000024",
-  "coll:evidence_type": "photograph",
+  "coll:evidence_type": "Evidence_type/Photograph",
   "coll:provenance_verified": true,
   "rdfs:comment": "This is a randomly selected image and has no relevance to any known claim",
   "rdfs:label": "Evaluate \"Dead fish in river\" by GK"

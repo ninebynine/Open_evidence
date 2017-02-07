@@ -13,15 +13,25 @@
   "annal:id": "00000024",
   "annal:type": "coll:Evidence",
   "annal:type_id": "Evidence",
+  "coll:datetime": "",
   "coll:location": "Unknown",
   "coll:provenance": "Photograph selected at random from Google images",
   "coll:tags": "Dead fish, river",
   "coll:uploaded_image_r": [],
+  "dc:subject": [
+    {
+      "@id": "Concept/river"
+    },
+    {
+      "@id": "Concept/dead_fish"
+    }
+  ],
   "entity:seeAlso_r": [
     {
       "rdfs:seeAlso": "http://1.bp.blogspot.com/-75-biLxblOc/TWApAHd-I7I/AAAAAAAADMw/QBOCOD7_CDA/s1600/Dead%2Bfish%2Bin%2BRiver%2BTame.jpg"
     }
   ],
   "rdfs:comment": "Photograph of dead fish in river",
-  "rdfs:label": "Dead fish in river"
+  "rdfs:label": "Dead fish in river",
+  "rdfs:seeAlso": []
 }

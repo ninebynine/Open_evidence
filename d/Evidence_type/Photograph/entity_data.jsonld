@@ -1,0 +1,23 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Evidence_type/Photograph",
+  "@type": [
+    "coll:Evidence_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "Photograph",
+  "annal:type": "coll:Evidence_type",
+  "annal:type_id": "Evidence_type",
+  "annal:uri": "coll:Photograph",
+  "rdfs:comment": "Photographic evidence",
+  "rdfs:label": "Photographic evidence",
+  "rdfs:seeAlso": [],
+  "skos:broader": [],
+  "skos:related": []
+}

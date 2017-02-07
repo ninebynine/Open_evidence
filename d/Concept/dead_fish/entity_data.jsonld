@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Concept/dead_fish",
+  "@type": [
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "dead_fish",
+  "annal:type": "skos:Concept",
+  "annal:type_id": "Concept",
+  "annal:uri": "",
+  "rdfs:comment": "Dead fish",
+  "rdfs:label": "Dead fish",
+  "rdfs:seeAlso": [],
+  "skos:broader": [
+    {
+      "@id": "Concept/fish"
+    }
+  ],
+  "skos:related": []
+}

@@ -1,7 +1,7 @@
 {
   "@context": [
     {
-      "@base": "../d/"
+      "@base": "./"
     },
     "coll_context.jsonld"
   ],
@@ -10,13 +10,13 @@
     "annal:Collection"
   ],
   "annal:default_list": "Evidence",
-  "annal:default_view_entity": null,
-  "annal:default_view_id": null,
-  "annal:default_view_type": null,
+  "annal:default_view_entity": "README",
+  "annal:default_view_id": "Evidence",
+  "annal:default_view_type": "Evidence",
   "annal:id": "Open_evidence",
   "annal:inherit_from": "_coll/Journal_defs",
   "annal:meta_comment": "",
-  "annal:software_version": "0.1.31",
+  "annal:software_version": "0.1.33",
   "annal:type": "annal:Collection",
   "annal:type_id": "_coll",
   "rdfs:comment": "Tools for assembly of open evidence base",

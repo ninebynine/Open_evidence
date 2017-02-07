@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Concept/river",
+  "@type": [
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "river",
+  "annal:type": "skos:Concept",
+  "annal:type_id": "Concept",
+  "annal:uri": "http://www.wikidata.org/entity/Q4022",
+  "rdfs:comment": "River",
+  "rdfs:label": "River",
+  "rdfs:seeAlso": [],
+  "skos:broader": [],
+  "skos:related": []
+}

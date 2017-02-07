@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Concept/river_thames",
+  "@type": [
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "river_thames",
+  "annal:type": "skos:Concept",
+  "annal:type_id": "Concept",
+  "annal:uri": "http://www.wikidata.org/entity/Q19686",
+  "rdfs:comment": "River Thames",
+  "rdfs:label": "River Thames",
+  "rdfs:seeAlso": [],
+  "skos:broader": [
+    {
+      "@id": "Concept/river"
+    }
+  ],
+  "skos:related": []
+}

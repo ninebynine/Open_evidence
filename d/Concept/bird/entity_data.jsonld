@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Concept/bird",
+  "@type": [
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "bird",
+  "annal:type": "skos:Concept",
+  "annal:type_id": "Concept",
+  "annal:uri": "http://www.wikidata.org/entity/Q5113",
+  "rdfs:comment": "Bird",
+  "rdfs:label": "Bird",
+  "rdfs:seeAlso": [],
+  "skos:broader": [],
+  "skos:related": []
+}
