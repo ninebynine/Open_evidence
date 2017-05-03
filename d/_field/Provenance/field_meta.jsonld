@@ -18,14 +18,14 @@
   "annal:field_render_type": "_enum_render_type/Textarea",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "annal:LongText",
-  "annal:group_ref": "",
   "annal:id": "Provenance",
   "annal:placeholder": "(provenance of submitted evidence)",
   "annal:property_uri": "coll:provenance",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
+  "annal:tooltip": "(provenance of submitted evidence - the model here needs more work to isolate machine actionable elements)",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "(provenance of submitted evidence - the model here needs more work to isolate machine actionable elements)",
+  "rdfs:comment": "# Provenance\r\n\r\n(provenance of submitted evidence - the model here needs more work to isolate machine actionable elements)",
   "rdfs:label": "Provenance"
 }

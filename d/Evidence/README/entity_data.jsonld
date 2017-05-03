@@ -18,11 +18,11 @@
   "coll:provenance": "",
   "coll:tags": "",
   "coll:uploaded_image_r": [],
-  "entity:seeAlso_r": [
-    {
-      "rdfs:seeAlso": "https://hackpad.com/Land-Use-and-Wildlife-Impact-lVp3ivwQ81P"
-    }
-  ],
   "rdfs:comment": "This collection relates to an attempt from RiverHack 2016 to create a public-engagement evidence collection and evaluation platform for evaluating potential impact of proposed activities on the wildlife environment around rivers.\r\n\r\nSee also:\r\n\r\n* [Evidence submissions]($COLL:l/Evidence/)\r\n* [Evidence evaluations]($COLL:l/Evidence_evaluation/)\r\n",
-  "rdfs:label": "About this collection"
+  "rdfs:label": "About this collection",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://hackpad.com/Land-Use-and-Wildlife-Impact-lVp3ivwQ81P"
+    }
+  ]
 }

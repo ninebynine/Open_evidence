@@ -18,14 +18,14 @@
   "annal:field_render_type": "_enum_render_type/Text",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "annal:Text",
-  "annal:group_ref": "",
   "annal:id": "Date_time",
   "annal:placeholder": "(Date and time at which evidence was collected; YYYYMMDD HH:MM:SS)",
   "annal:property_uri": "coll:datetime",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
+  "annal:tooltip": "(Date and time at which evidence was collected)",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "(Date and time at which evidence was collected)",
+  "rdfs:comment": "# Date/time\r\n\r\n(Date and time at which evidence was collected)",
   "rdfs:label": "Date/time"
 }

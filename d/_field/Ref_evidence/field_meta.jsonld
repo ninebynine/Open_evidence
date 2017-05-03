@@ -18,14 +18,14 @@
   "annal:field_render_type": "_enum_render_type/Enum_choice",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "coll:Evidence",
-  "annal:group_ref": "",
   "annal:id": "Ref_evidence",
   "annal:placeholder": "(Select evidence submission to evaluate)",
   "annal:property_uri": "coll:evidence_evaluation",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
+  "annal:tooltip": "(reference to evaluated evidence)",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "(reference to evaluated evidence)",
+  "rdfs:comment": "# Evidence\r\n\r\n(reference to evaluated evidence)",
   "rdfs:label": "Evidence"
 }

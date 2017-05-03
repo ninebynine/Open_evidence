@@ -18,14 +18,14 @@
   "annal:field_render_type": "_enum_render_type/CheckBox",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "annal:Boolean",
-  "annal:group_ref": "",
   "annal:id": "Provenance_verified",
   "annal:placeholder": "(Check box if provenance was verified)",
   "annal:property_uri": "coll:provenance_verified",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
+  "annal:tooltip": "(Check box if provenance was verified)",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "(Check box if provenance was verified)",
+  "rdfs:comment": "# Provenance verified?\r\n\r\n(Check box if provenance was verified)",
   "rdfs:label": "Provenance verified?"
 }

@@ -18,14 +18,14 @@
   "annal:field_render_type": "_enum_render_type/Enum_optional",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "annal:Text",
-  "annal:group_ref": "",
   "annal:id": "Evidence_type",
   "annal:placeholder": "(observation, event, report, photograph, citation, ...)",
   "annal:property_uri": "coll:evidence_type",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
+  "annal:tooltip": "Type of evidence (observation, event, report, photograph, citation, ...)",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "Type of evidence (observation, event, report, photograph, citation, ...)",
+  "rdfs:comment": "# Evidence type\r\n\r\nType of evidence (observation, event, report, photograph, citation, ...)",
   "rdfs:label": "Evidence type"
 }

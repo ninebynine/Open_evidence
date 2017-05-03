@@ -18,14 +18,14 @@
   "annal:field_render_type": "_enum_render_type/EntityId",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "annal:EntityRef",
-  "annal:group_ref": "",
   "annal:id": "Evidence_type_id",
   "annal:placeholder": "(tag id)",
   "annal:property_uri": "annal:id",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
+  "annal:tooltip": "A concept, denoted by a short string, that identifies a type of evidence.",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "A concept, denoted by a short string, that identifies a type of evidence.",
+  "rdfs:comment": "# Evidence type id\r\n\r\nA concept, denoted by a short string, that identifies a type of evidence.",
   "rdfs:label": "Evidence type id"
 }

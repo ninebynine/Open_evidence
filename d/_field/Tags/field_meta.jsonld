@@ -18,14 +18,14 @@
   "annal:field_render_type": "_enum_render_type/Text",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "annal:Text",
-  "annal:group_ref": "",
   "annal:id": "Tags",
   "annal:placeholder": "(tags for this evidence)",
   "annal:property_uri": "coll:tags",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
+  "annal:tooltip": "(tags for this evidence)",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "(tags for this evidence)",
+  "rdfs:comment": "# Tags\r\n\r\n(tags for this evidence)",
   "rdfs:label": "Tags"
 }

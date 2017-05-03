@@ -18,14 +18,14 @@
   "annal:field_render_type": "_enum_render_type/Text",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "annal:Text",
-  "annal:group_ref": "",
   "annal:id": "Location",
   "annal:placeholder": "(location: geo ref or OS map ref)",
   "annal:property_uri": "coll:location",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
+  "annal:tooltip": "(location at which evidence was gathered)",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "(location at which evidence was gathered)",
+  "rdfs:comment": "# Location\r\n\r\n(location at which evidence was gathered)",
   "rdfs:label": "Location"
 }
